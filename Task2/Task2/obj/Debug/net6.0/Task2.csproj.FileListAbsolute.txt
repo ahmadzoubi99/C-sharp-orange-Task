@@ -1,0 +1,4 @@
+D:\Users\orange\C#-task\Task2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\orange\C#-task\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\Users\orange\C#-task\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\Users\orange\C#-task\Task2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
