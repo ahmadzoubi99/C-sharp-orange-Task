@@ -1,0 +1,15 @@
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\bin\Debug\net6.0\Task-function2.exe
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\bin\Debug\net6.0\Task-function2.deps.json
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\bin\Debug\net6.0\Task-function2.runtimeconfig.json
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\bin\Debug\net6.0\Task-function2.dll
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\bin\Debug\net6.0\Task-function2.pdb
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.AssemblyInfoInputs.cache
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.AssemblyInfo.cs
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.sourcelink.json
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.dll
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\refint\Task-function2.dll
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.pdb
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\Task-function2.genruntimeconfig.cache
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function2\Task-function2\Task-function2\obj\Debug\net6.0\ref\Task-function2.dll

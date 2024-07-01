@@ -1,0 +1,15 @@
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\bin\Debug\net6.0\Task-Function1.exe
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\bin\Debug\net6.0\Task-Function1.deps.json
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\bin\Debug\net6.0\Task-Function1.runtimeconfig.json
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\bin\Debug\net6.0\Task-Function1.dll
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\bin\Debug\net6.0\Task-Function1.pdb
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.AssemblyInfoInputs.cache
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.AssemblyInfo.cs
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.sourcelink.json
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.dll
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\refint\Task-Function1.dll
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.pdb
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\Task-Function1.genruntimeconfig.cache
+C:\Users\Coding School\Desktop\C--orange-Task\Task-Function1\Task-Function1\obj\Debug\net6.0\ref\Task-Function1.dll
