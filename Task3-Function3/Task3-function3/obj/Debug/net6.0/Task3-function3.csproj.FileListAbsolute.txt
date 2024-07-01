@@ -1,0 +1,14 @@
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\bin\Debug\net6.0\Task3-function3.exe
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\bin\Debug\net6.0\Task3-function3.deps.json
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\bin\Debug\net6.0\Task3-function3.runtimeconfig.json
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\bin\Debug\net6.0\Task3-function3.dll
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\bin\Debug\net6.0\Task3-function3.pdb
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.AssemblyInfoInputs.cache
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.AssemblyInfo.cs
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.dll
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\refint\Task3-function3.dll
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.pdb
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\Task3-function3.genruntimeconfig.cache
+C:\Users\Coding School\source\repos\Task3-function3\Task3-function3\obj\Debug\net6.0\ref\Task3-function3.dll
