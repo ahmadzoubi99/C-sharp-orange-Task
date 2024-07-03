@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Coding School\\source\\repos\\Task3-function3\\",
+  "WorkspaceRootPath": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\Task-Function3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B48B5B0-3797-4CC7-8E95-BC1B7730254A}|Task3-function3\\Task3-function3.csproj|c:\\users\\coding school\\source\\repos\\task3-function3\\task3-function3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B48B5B0-3797-4CC7-8E95-BC1B7730254A}|Task3-function3\\Task3-function3.csproj|c:\\users\\coding school\\desktop\\c--orange-task\\task-function3\\task3-function3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B48B5B0-3797-4CC7-8E95-BC1B7730254A}|Task3-function3\\Task3-function3.csproj|solutionrelative:task3-function3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B48B5B0-3797-4CC7-8E95-BC1B7730254A}|Task3-function3\\Task3-function3.csproj|c:\\users\\coding school\\desktop\\c--orange-task\\task-function3\\task3-function3\\task3-function3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B48B5B0-3797-4CC7-8E95-BC1B7730254A}|Task3-function3\\Task3-function3.csproj|solutionrelative:task3-function3\\task3-function3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\Task-Function3\\Task3-function3\\Task3-function3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3-function3\\Task3-function3\\Program.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\Task-Function3\\Task3-function3\\Task3-function3\\Program.cs",
+              "RelativeToolTip": "Task3-function3\\Task3-function3\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:14:41.529Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -24,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task3-function3\\Task3-function3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\Task-Function3\\Task3-function3\\Program.cs",
               "RelativeDocumentMoniker": "Task3-function3\\Program.cs",
-              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task3-function3\\Task3-function3\\Program.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\Task-Function3\\Task3-function3\\Program.cs",
               "RelativeToolTip": "Task3-function3\\Program.cs",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAuwNkAAAAFAAAA",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAANkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T11:22:42.18Z",
               "EditorCaption": ""

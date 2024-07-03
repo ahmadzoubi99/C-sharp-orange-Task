@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task-function2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04f93f227f370fd38e2e6c5ef450d2008006ade1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ab3c79df56efdd4f9fbdaf6634ac35a1636f7fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task-function2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task-function2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
