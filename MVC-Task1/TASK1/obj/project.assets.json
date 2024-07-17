@@ -7852,11 +7852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\orange\\MVC\\TASK1\\TASK1\\TASK1.csproj",
+      "projectUniqueName": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task1\\TASK1\\TASK1.csproj",
       "projectName": "TASK1",
-      "projectPath": "D:\\Users\\orange\\MVC\\TASK1\\TASK1\\TASK1.csproj",
+      "projectPath": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task1\\TASK1\\TASK1.csproj",
       "packagesPath": "C:\\Users\\Coding School\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\orange\\MVC\\TASK1\\TASK1\\obj\\",
+      "outputPath": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task1\\TASK1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

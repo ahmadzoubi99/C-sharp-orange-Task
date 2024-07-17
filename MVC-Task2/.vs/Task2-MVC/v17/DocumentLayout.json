@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\migrations\\20240717170820_task2-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\migrations\\20240717170820_task2-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|c:\\users\\coding school\\source\\repos\\task2-mvc\\task2-mvc\\migrations\\20240717171603_task2-migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C9135-2DF7-4D3C-A1EF-CC6C6ACD5839}|Task2-MVC\\Task2-MVC.csproj|solutionrelative:task2-mvc\\migrations\\20240717171603_task2-migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T19:46:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T19:44:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T19:44:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T19:16:15.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T17:53:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Task2-MVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAtwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:39:00.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Task2-MVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAtwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:39:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T19:19:56.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task2-MVC\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Task2-MVC\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T17:49:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Models\\Product.cs",
+              "RelativeToolTip": "Task2-MVC\\Models\\Product.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:02:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Models\\Categories.cs",
+              "RelativeToolTip": "Task2-MVC\\Models\\Categories.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:58:32.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Task2-MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:47:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240717171603_Task2-migration1.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Migrations\\20240717171603_Task2-migration1.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Migrations\\20240717171603_Task2-migration1.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Migrations\\20240717171603_Task2-migration1.cs",
+              "RelativeToolTip": "Task2-MVC\\Migrations\\20240717171603_Task2-migration1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:16:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Program.cs",
+              "RelativeToolTip": "Task2-MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:56:42.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Context\\MyContext.cs",
+              "RelativeToolTip": "Task2-MVC\\Context\\MyContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:52:45.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Task2-MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\appsettings.json",
+              "RelativeToolTip": "Task2-MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T16:56:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240717170820_Task2-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Migrations\\20240717170820_Task2-migration.cs",
+              "RelativeDocumentMoniker": "Task2-MVC\\Migrations\\20240717170820_Task2-migration.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\Task2-MVC\\Task2-MVC\\Migrations\\20240717170820_Task2-migration.cs",
+              "RelativeToolTip": "Task2-MVC\\Migrations\\20240717170820_Task2-migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:08:20.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
