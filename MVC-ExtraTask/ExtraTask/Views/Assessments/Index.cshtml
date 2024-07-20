@@ -1,0 +1,128 @@
+﻿@model IEnumerable<ExtraTask.Models.Assessment>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "AdminLayout";
+}
+
+
+
+
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-12">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Student Table</h6>
+                <a asp-action="Create">Create New</a>
+                <br />
+                <form asp-action="SearchByName" method="post" class="form-inline mb-3">
+                    <input type="text" name="name" class="form-control mr-2" placeholder="Search by name" />
+                    <button type="submit" class="btn btn-primary">Search</button>
+                </form>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Name Student</th>
+                                <th scope="col">Commitment</th>
+                                <th scope="col">AcademicPerformance</th>
+                                <th scope="col">AbsentDays</th>
+                                <th scope="col">Comments</th>
+                                <th scope="col">ClassName</th>
+                                <th scope="col">Teacher Name</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th scope="row">1</th>
+                                    <td>@item.Student.FirstName @item.Student.LastName</td>
+                                    <td>@item.Commitment</td>
+                                    <td>@item.AcademicPerformance</td>
+                                    <td>@item.AbsentDays</td>
+                                    <td>@item.Comments</td>
+                                    <td>@item.Student.Class.ClassName</td>
+                                    <td>@item.Teacher.FullName</td>
+                                    <td>
+                                        <a asp-action="Edit" asp-route-id="@item.AssessmentID">Edit</a> |
+                                        <a asp-action="Details" asp-route-id="@item.AssessmentID">Details</a> |
+                                        <a asp-action="Delete" asp-route-id="@item.AssessmentID">Delete</a>
+                                    </td>
+                                   
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@* 
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Student)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Commitment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AcademicPerformance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AbsentDays)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comments)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teacher)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Student.FirstName  @item.Student.LastName
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Commitment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AcademicPerformance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AbsentDays)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comments)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teacher.FullName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AssessmentID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AssessmentID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AssessmentID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+ *@

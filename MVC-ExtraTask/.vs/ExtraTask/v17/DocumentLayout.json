@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\assessments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\assessments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\assessments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\assessments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\assessments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\assessments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\assessments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\assessments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\assessments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\assessments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|c:\\users\\coding school\\source\\repos\\extratask\\extratask\\views\\classes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687D63DB-FE67-47EF-88D5-E976CE0D95A4}|ExtraTask\\ExtraTask.csproj|solutionrelative:extratask\\views\\classes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Assessments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Create.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Assessments\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T14:32:22.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ExtraTask\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ExtraTask\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:20:41.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Assessments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Index.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Assessments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:12:03.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:11:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssessmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Controllers\\AssessmentsController.cs",
+              "RelativeDocumentMoniker": "ExtraTask\\Controllers\\AssessmentsController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Controllers\\AssessmentsController.cs",
+              "RelativeToolTip": "ExtraTask\\Controllers\\AssessmentsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T14:23:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ExtraTask\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ExtraTask\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T14:43:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:43:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Program.cs",
+              "RelativeDocumentMoniker": "ExtraTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Program.cs",
+              "RelativeToolTip": "ExtraTask\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:00:32.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "ExtraTask\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Models\\Classes.cs",
+              "RelativeToolTip": "ExtraTask\\Models\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:27:50.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:50:04.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Assessments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Edit.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Assessments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:06:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T14:43:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Models\\Assessment.cs",
+              "RelativeDocumentMoniker": "ExtraTask\\Models\\Assessment.cs",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Models\\Assessment.cs",
+              "RelativeToolTip": "ExtraTask\\Models\\Assessment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:26:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Assessments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Details.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Assessments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:10:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:08:47.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Assessments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Assessments\\Delete.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Assessments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T16:08:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Classes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExtraTask\\Views\\Classes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\source\\repos\\ExtraTask\\ExtraTask\\Views\\Classes\\Create.cshtml",
+              "RelativeToolTip": "ExtraTask\\Views\\Classes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:15:07.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

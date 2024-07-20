@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Task2-MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Task2-MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\5674ccb0-3b91-451c-bab6-e84dc2965750Screenshot 2024-05-21 121659.png",
+      "PackagePath": "staticwebassets\\5674ccb0-3b91-451c-bab6-e84dc2965750Screenshot 2024-05-21 121659.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\81e09a75-3cc4-4e0e-a974-2de9de35b723Screenshot 2024-05-11 144958.png",
+      "PackagePath": "staticwebassets\\81e09a75-3cc4-4e0e-a974-2de9de35b723Screenshot 2024-05-11 144958.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\all.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\gijgo.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\gijgo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\style.map",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\index.html",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\dingo restautent doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\dingo restautent doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\Quote.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\Quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\about.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\about_overlay.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\about_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_4.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_5.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_7.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_8.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\animate_icon\\icon_9.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\animate_icon\\icon_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\banner_bg.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\banner_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\banner_overlay.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\banner_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\booking_tabel_bg.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\booking_tabel_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\breadcrumb.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\breadcrumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\client\\client_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\client\\client_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_item\\food_item_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_item\\food_item_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_item\\food_item_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_item\\food_item_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_item\\food_item_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_item\\food_item_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_menu\\single_food_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_menu\\single_food_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_menu\\single_food_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_menu\\single_food_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_menu\\single_food_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_menu\\single_food_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_menu\\single_food_4.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_menu\\single_food_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_menu\\single_food_5.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_menu\\single_food_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\food_menu\\single_food_6.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\food_menu\\single_food_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\icon\\left_1.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\left_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\icon\\left_2.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\left_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\icon\\left_3.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\left_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\icon\\play.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\icon\\quate.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\quate.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\intro_video_bg.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\intro_video_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\team\\chefs_1.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team\\chefs_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\team\\chefs_2.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team\\chefs_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\img\\team\\chefs_3.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team\\chefs_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery-1.12.1.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery-1.12.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery-3.3.1.slim.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery-3.3.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\masonry.pkgd.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\masonry.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\particles.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\js\\swiper_custom.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\swiper_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_banner.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_button.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_chefs_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_chefs_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_common.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_copyright_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_copyright_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_elements.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_exclusive_item_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_exclusive_item_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_extends.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_extends.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_food_menu.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_food_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_gallery_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_gallery_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_intro_video_bg.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_intro_video_bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_menu.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_project_details.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_project_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_regervation_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_regervation_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_review.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_service.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_single_blog.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_single_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_social_connect_part.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_social_connect_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_team.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\HomeAssets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\HomeAssets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\Image\\2e26d85b-6612-45fe-aaf2-10500e03ddcdOIP (2).jpg",
+      "PackagePath": "staticwebassets\\Image\\2e26d85b-6612-45fe-aaf2-10500e03ddcdOIP (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\Image\\2ec399f3-1638-4e21-9d33-3464873d0fc9Screenshot 2024-05-21 121659.png",
+      "PackagePath": "staticwebassets\\Image\\2ec399f3-1638-4e21-9d33-3464873d0fc9Screenshot 2024-05-21 121659.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\Image\\67de76e2-ee6a-429a-9832-a114a83259c0OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Image\\67de76e2-ee6a-429a-9832-a114a83259c0OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\Image\\c779f74f-6926-47b4-a066-9309a988d6eeScreenshot 2024-05-21 121659.png",
+      "PackagePath": "staticwebassets\\Image\\c779f74f-6926-47b4-a066-9309a988d6eeScreenshot 2024-05-21 121659.png"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\Image\\eeb4568b-3106-464d-a298-114265c4aa7adownload.jpg",
+      "PackagePath": "staticwebassets\\Image\\eeb4568b-3106-464d-a298-114265c4aa7adownload.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\MVC-Task2\\Task2-MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Task2-MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Task2-MVC.props",
+      "PackagePath": "build\\Task2-MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Task2-MVC.props",
+      "PackagePath": "buildMultiTargeting\\Task2-MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Task2-MVC.props",
+      "PackagePath": "buildTransitive\\Task2-MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,55 @@
+﻿@model ExtraTask.Models.Assessment
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "AdminLayout";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Assessment</h4>
+    <hr />
+    <dl class="row" style="padding-left:50px">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Student)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Student.StudentID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Commitment)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Commitment)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AcademicPerformance)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AcademicPerformance)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AbsentDays)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AbsentDays)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Comments)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Comments)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Teacher)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Teacher.TeacherID)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.AssessmentID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\orange\\C#-task\\task1\\task1\\task1.csproj": {}
+    "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\task1\\task1\\task1.csproj": {}
   },
   "projects": {
-    "D:\\Users\\orange\\C#-task\\task1\\task1\\task1.csproj": {
+    "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\task1\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\orange\\C#-task\\task1\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\task1\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "D:\\Users\\orange\\C#-task\\task1\\task1\\task1.csproj",
+        "projectPath": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\task1\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\Coding School\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\orange\\C#-task\\task1\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Coding School\\Desktop\\C--orange-Task\\task1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
